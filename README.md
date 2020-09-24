@@ -10,5 +10,6 @@ This workshop will cover some more advanced topics of data visualization in R, s
 
 **Time:** 9-11am Thursday 24th of September (AEST)
 
-A recording of the zoom session is available [here](https://macquarie.zoom.us/rec/share/Lu5ATs_ZIw9_EPHgTgroIXce220IxN9gYU0Xj625wygeEzlyKYd1TAniaDS43xBa.nKDrMrm41EdCiYgj).
+Presenter: Jake Riley is a clinical data analyst at the Children's Hospital of Philadelphia (CHOP). He enjoys developing tools for analytic teams and specializes in data visualization and package development.
 
+A recording of the zoom session is available [here](https://macquarie.zoom.us/rec/share/Lu5ATs_ZIw9_EPHgTgroIXce220IxN9gYU0Xj625wygeEzlyKYd1TAniaDS43xBa.nKDrMrm41EdCiYgj).
