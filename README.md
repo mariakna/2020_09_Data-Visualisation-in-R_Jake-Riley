@@ -10,4 +10,5 @@ This workshop will cover some more advanced topics of data visualization in R, s
 
 **Time:** 9-11am Thursday 24th of September (AEST)
 
-A recording of the workshop will be taken and uploaded at a later date. 
+A recording of the zoom session is available [here](https://macquarie.zoom.us/rec/share/Lu5ATs_ZIw9_EPHgTgroIXce220IxN9gYU0Xj625wygeEzlyKYd1TAniaDS43xBa.nKDrMrm41EdCiYgj).
+
